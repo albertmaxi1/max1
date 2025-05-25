@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/max-ventures-website/static/css/main.cf890fdb.css",
+    "main.js": "/max-ventures-website/static/js/main.c9846be6.js",
+    "index.html": "/max-ventures-website/index.html",
+    "main.cf890fdb.css.map": "/max-ventures-website/static/css/main.cf890fdb.css.map",
+    "main.c9846be6.js.map": "/max-ventures-website/static/js/main.c9846be6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.c9846be6.js"
+  ]
+}
